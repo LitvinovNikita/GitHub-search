@@ -7,7 +7,7 @@ The project aims to create an app that allows users to search for GitHub users b
 - [Screenshots](#screenshots)
 - [Links](#links)
 - [Technologies](#technologies)
-
+- [Author](#author)
 
 
 ## Challenge
@@ -47,3 +47,7 @@ The app should meet the following requirements:
 - Javascript: Using a programming language to add interactivity and dynamic behavior to web pages.
 - Fetch API: A built-in web API in modern browsers that allows fetching resources and making HTTP requests to servers from a web page.
 - GitHub API: An API provided by GitHub that allows developers to access and retrieve data related to GitHub repositories, users, and organizations.
+
+
+## Author
+Author: [Nikita Litvinov](https://github.com/LitvinovNikita)
