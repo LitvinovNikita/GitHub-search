@@ -36,8 +36,9 @@ The app should meet the following requirements:
 
 
 ## Links
+- Live Site URL: (https://litvinovnikita.github.io/Github-search/)
 - Solution URL: (https://www.frontendmentor.io/solutions/responsive-github-api-user-search-api-with-darklight-theme-switch-rqG2i-9TT)
-- Live Site URL: ()
+
 
 ## Technologies
 - Semantic HTML5 markup: Using HTML elements to give meaning to content and structure web pages in a more accessible and SEO-friendly way.
